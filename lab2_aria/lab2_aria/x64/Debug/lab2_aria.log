@@ -1,0 +1,17 @@
+﻿  FrameTime.cpp
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\FrameTime.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Mapping.cpp
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\Mapping.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\Mapping.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\Mapping.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\Mapping.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\Mapping.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PID.cpp
+  avoid.cpp
+  edgeFollow.cpp
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\edgeFollow.cpp(55): warning C4552: '-': result of expression not used
+E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\lab2_aria\edgeFollow.cpp(63): warning C4552: '-': result of expression not used
+  lab2_aria.cpp
+  wander.cpp
+  Generating Code...
+  lab2_aria.vcxproj -> E:\Users\Ashton\Documents\University\Year 3\Mobile Robotics\Coursework\lab2_aria\x64\Debug\lab2_aria.exe

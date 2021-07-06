@@ -1,0 +1,4 @@
+﻿  forward.cpp
+  lab2_aria.cpp
+  Generating Code...
+AriaDebugVC14.lib(AriaDebugVC14.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
